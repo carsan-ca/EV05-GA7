@@ -1,0 +1,2 @@
+Nombre: Juan Pérez
+Correo electrónico: juanperez@example.com
